@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# additional
+Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BFC_V10_-672099234420024429.gpkg
+london_lsoa_2021.geojson
+sapelsoasyoa20222024.xlsx
+data/
+.DS_Store
